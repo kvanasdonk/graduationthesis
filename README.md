@@ -1,1 +1,2 @@
-# PINEM with Optical Fibers | Graduation thesis | MATLAB simulation code | Karsten van Asdonk
+# PINEM with Optical Fibers | Graduation thesis | MATLAB simulation code 
+K. E. van Asdonk
